@@ -37,3 +37,4 @@
 
 .idea
 .DS_Store
+/app/javascript/node_modules
